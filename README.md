@@ -7,6 +7,8 @@ As a senior data analyst at the company, you've been given access to the complet
 
 The executive team has tasked you with generating all of the tables and figures needed for the technical report of the study. They have also asked for a top-level summary of the study results.
 
-The first observation is a decrease in tumor volume within 35 days in mice receiving Capomulin Treatment over the time point as displayed in the line graph
+The first observation is a decrease in tumor volume within 35 days in mice receiving Capomulin Treatment over the time point as displayed in the line graph.
+
 Secondly,average tumor volume is higher in mice that weigh more per their size ranging from 17, 21 to 24(g).
+
 Lastly, as much as the Capomulin Treatment is effective there was abit of increase between 25-30days of treatment and thereafter 5 more days, the growth of tumor increased in the mice during this treatment.
